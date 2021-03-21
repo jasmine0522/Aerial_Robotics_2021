@@ -1,0 +1,2 @@
+Homework/hw1:Homework/hw11:Homework/hw2:Homework/hw3:Homework/hw6:Homework/hw7
+-DCATKIN_DEVEL_PREFIX=/home/user1/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user1/catkin_ws/install -G Unix Makefiles
